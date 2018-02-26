@@ -3,8 +3,8 @@ echo "Are you ready to run the script? Please type 'script_help' for introducing
 
 
 dir_status(){
-echo "checking"
 git status
+echo "finished"
 }
 
 uncommitted_rd(){
