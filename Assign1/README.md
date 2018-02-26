@@ -2,15 +2,15 @@
 CS1XA3 Assignment 1
 
 feature:
-1. dir_status
+1.dir_status
 
 Informs you if the local repo is up to date with the remote repo.
 
-2. uncommitted_rd
+2.uncommitted_rd
  
 Puts all uncommitted changes in a file changes.log,then if you want to see the changes.log simply typing the y as the answer.
 
-3. todo_rd
+3.todo_rd
 
 Puts each line from every file of your project with the tag #TODO into the file todo.log, and then typing y to see the   todo.log.
 
