@@ -3,7 +3,7 @@ CS1XA3 Assignment 1
 
 feature:
 1. dir_status
- Informs you if the local repo is up to date with the remote repo.
+\nInforms you if the local repo is up to date with the remote repo.
 
 2. uncommitted_rd
  Puts all uncommitted changes in a file changes.log,then if you want to see the changes.log simply typing the y as the answer.
