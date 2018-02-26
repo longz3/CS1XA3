@@ -2,6 +2,7 @@
 CS1XA3 Assignment 1
 
 feature:
+
 1.dir_status
 
 Informs you if the local repo is up to date with the remote repo.
