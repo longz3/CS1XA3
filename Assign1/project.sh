@@ -40,7 +40,7 @@ fi
 }
 
 script_help(){
-printf "dir_status\nuncommitted_rd\ntodo_rd\nerror_rd\nnum_file\nnum_dr\n"
+printf "dir_status\nuncommitted_rd\ntodo_rd\nerror_rd\nnum_file\nnum_dr\nls -d */\n"
 }
 
 num_file(){
@@ -53,6 +53,9 @@ echo"There are $(find . -type d | ec -l) directories in this project."
 }
 #This feature is from https://github.com/aksamitn/CS1XA3/blob/master/ProjectAnalyze.sh
 
-
+ls_dr(){
+ls -d */
+}
+#list only the subdirectories when you have to many files in you current directory.
 
 
