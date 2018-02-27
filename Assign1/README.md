@@ -34,3 +34,7 @@ Calculate how many file in current directories.
 Calculate how many sub-directories in current directories.
 #This function is referenced from https://github.com/aksamitn.
 
+8.ls_dr
+
+This command only list subdirectories in your current directory, and it helps when you have too many files.
+
