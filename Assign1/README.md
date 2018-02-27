@@ -1,6 +1,16 @@
 
 CS1XA3 Assignment 1
 
+
+
+How to use this script:
+
+After excuting the script, it will automatically mention you that typing "script_help" to know how many commands it has. According to this README.md , you will quickly understand the function of each commands.
+
+
+
+
+
 feature:
 
 1.dir_status
